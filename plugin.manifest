@@ -1,0 +1,6 @@
+pluginname=BackToTop
+pluginclassname=BacktotopPlugin
+origin=intelec
+version=1
+description=Stop nerviges Hochscrollen
+studipMinVersion=2.3
